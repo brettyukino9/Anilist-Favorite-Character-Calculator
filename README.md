@@ -1,0 +1,1 @@
+# Anilist-Favorite-Character-Calculator
